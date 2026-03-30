@@ -1,0 +1,5 @@
+{
+  "name": "火星骰",
+  "description": "2~6人的p2p局域网联机火星骰游戏",
+  "requestFramePermissions": []
+}
